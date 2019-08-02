@@ -1,0 +1,56 @@
+-debug
+-target:library
+-nowarn:0169
+-out:'Temp/Assembly-CSharp.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll'
+-r:'Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll'
+-r:'Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll'
+-define:UNITY_STANDALONE
+-define:ENABLE_MICROPHONE
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_AUDIO_FMOD
+-define:ENABLE_NETWORK
+-define:ENABLE_MONO
+-define:ENABLE_PHYSICS
+-define:ENABLE_TERRAIN
+-define:ENABLE_CACHING
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GENERICS
+-define:ENABLE_CLOTH
+-define:ENABLE_MOVIES
+-define:ENABLE_AUDIO
+-define:ENABLE_WWW
+-define:ENABLE_SHADOWS
+-define:ENABLE_DUCK_TYPING
+-define:UNITY_4_0_0
+-define:UNITY_4_0
+-define:UNITY_STANDALONE_LINUX
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:0
+'Assets/ActivateGodMode.cs'
+'Assets/HeartBeatTest.cs'
+'Assets/Personal Assets/Scripts/AnimateBackground.cs'
+'Assets/Personal Assets/Scripts/AnimationManager.cs'
+'Assets/Personal Assets/Scripts/HeartBeat.cs'
+'Assets/Personal Assets/Scripts/Interface.cs'
+'Assets/Personal Assets/Scripts/Intro.cs'
+'Assets/Personal Assets/Scripts/Item.cs'
+'Assets/Personal Assets/Scripts/ItemManager.cs'
+'Assets/Personal Assets/Scripts/MainMenu.cs'
+'Assets/Personal Assets/Scripts/MovementManager.cs'
+'Assets/Personal Assets/Scripts/PulseVignetting.cs'
+'Assets/Personal Assets/Scripts/SetResolution.cs'
+'Assets/Personal Assets/Scripts/TrailWave.cs'
+'Assets/Personal Assets/_Scripts/Itens/BaseItem.cs'
+'Assets/Personal Assets/_Scripts/Itens/Cruz.cs'
+'Assets/Personal Assets/_Scripts/Itens/Desfribilador.cs'
+'Assets/Personal Assets/_Scripts/Itens/Seringa.cs'
+'Assets/Personal Assets/_Scripts/Itens/Veneno.cs'
+'Assets/Personal Assets/_Scripts/ProceduralGeneration/BlockPivots.cs'
+'Assets/Personal Assets/_Scripts/ProceduralGeneration/LevelAdderTrigger.cs'
+'Assets/Personal Assets/_Scripts/ProceduralGeneration/ProceduralItemGenerator.cs'
+'Assets/Personal Assets/_Scripts/ProceduralGeneration/ProceduralLevelGenerator.cs'
+'Assets/iTween/Plugins/iTween.cs'

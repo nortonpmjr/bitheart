@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Personal Assets/Scripts/Interface.cs">
+    <Files>
+      <File FileName="Assets/Personal Assets/Scripts/ItemManager.cs" Line="99" Column="4" />
+      <File FileName="Assets/Personal Assets/Scripts/MovementManager.cs" Line="13" Column="2" />
+      <File FileName="Assets/Personal Assets/Scripts/Interface.cs" Line="61" Column="22" />
+      <File FileName="Assets/Personal Assets/Scripts/Item.cs" Line="9" Column="22" />
+      <File FileName="Assets/Personal Assets/_Scripts/ProceduralGeneration/ProceduralItemGenerator.cs" Line="52" Column="4" />
+      <File FileName="Assets/ActivateGodMode.cs" Line="11" Column="67" />
+      <File FileName="Assets/Personal Assets/SoundManager/Scripts/DestroyAfterPlay.js" Line="20" Column="4" />
+      <File FileName="Assets/Personal Assets/SoundManager/Scripts/AudioHandler.js" Line="6" Column="1" />
+      <File FileName="Assets/Personal Assets/Scripts/SetResolution.cs" Line="7" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

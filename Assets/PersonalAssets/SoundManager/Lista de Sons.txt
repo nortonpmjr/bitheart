@@ -1,0 +1,17 @@
+Musicas:		//playMusic -> recebe String
+
+ - cinematic
+ - inGame
+ - titleScreen
+
+
+Sons:			//playSound -> recebe String
+
+ - furadeira
+ - gameOver
+ - click
+ - mover
+ - voltar
+ - porrada
+ - presente
+ - pulo
